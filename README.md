@@ -4,16 +4,12 @@
 
 Passionate about solving complex problems, writing efficient code, and building impactful software. I thrive on competitive programming, software development, and web technologies, aiming to push my limits every day. My goal? To become a world-class software engineer at a leading tech company! 🌍✨  
 
----
-
 ## 🔥 About Me  
 - 🎯 Dedicated Software Engineer in the making, focusing on high-performance coding & problem-solving.  
 - 🏆 Active on Codeforces, LeetCode, CodeChef, and HackerRank, constantly improving my DSA & algorithmic skills.  
 - 🚀 Passionate about software development, system design, and full-stack web development.  
 - 🌟 Enthusiastic about open-source contributions and collaborative coding projects.  
 - 📈 Strong believer in continuous learning & technical excellence.  
-
----
 
 ## 🚀 Tech Stack  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
@@ -22,8 +18,6 @@ Passionate about solving complex problems, writing efficient code, and building 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-
----
 
 ## 📊 GitHub Stats
 ![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushic6&show_icons=true&theme=radical)
@@ -36,8 +30,6 @@ Passionate about solving complex problems, writing efficient code, and building 
 - 🔥 Build real-world software solutions that solve challenging industry problems.  
 - 🎯 Land a software engineering role at a top-tier tech company.  
 - 📖 Keep evolving, learning new technologies, and refining coding best practices.  
-
----
 
 ## 🏆 Competitive Programming & Profiles  
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ayushichourasia3)  
