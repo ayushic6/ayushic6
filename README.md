@@ -9,7 +9,7 @@ Obsessed with solving complex problems, writing efficient code, and building imp
 - 🏆 Active on Codeforces, LeetCode, CodeChef, and HackerRank, constantly improving my DSA & algorithmic skills.  
 - 🚀 Passionate about software development, system design, and full-stack web development.  
 - 🌟 Enthusiastic about open-source contributions and collaborative coding projects.  
-- 📈 Strong believer in continuous learning & technical excellence.  
+- 📈 Strong believer in relentless learning & technical excellence.  
 
 ## 🚀 Tech Stack  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
