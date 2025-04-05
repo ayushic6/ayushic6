@@ -25,7 +25,7 @@ Obsessed with solving complex problems, writing efficient code, and building imp
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ayushic6&theme=radical)
 
 ## 🌱 Aspirations & Goals  
-- 🚀 Master advanced problem-solving techniques and ace technical interviews.  
+- 🚀 Conquer advanced problem-solving techniques and ace technical interviews.  
 - ⚡️ Work on scalable applications and contribute to open-source projects.  
 - 🔥 Build real-world software solutions that solve challenging industry problems.  
 - 🎯 Land a software engineering role at a top-tier tech company.  
