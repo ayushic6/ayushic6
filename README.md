@@ -1,6 +1,6 @@
 #🚀 Hi there, I'm Ayushi Chourasia 👋  
 
-💻 Aspiring Software Engineer | 🚀 Competitive Programmer | 🎯 Problem-Solving Enthusiast  
+💻 Driven Software Engineer | 🚀 Competitive Programmer | 🎯 Problem-Solving Enthusiast  
 
 Passionate about solving complex problems, writing efficient code, and building impactful software. I thrive on competitive programming, software development, and web technologies, aiming to push my limits every day. My goal? To become a world-class software engineer at a leading tech company! 🌍✨  
 
