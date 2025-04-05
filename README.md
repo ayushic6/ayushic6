@@ -2,7 +2,7 @@
 
 💻 Driven Software Engineer | 🚀 Competitive Programmer | 🎯 Problem-Solving Enthusiast  
 
-Passionate about solving complex problems, writing efficient code, and building impactful software. I thrive on competitive programming, software development, and web technologies, aiming to push my limits every day. My goal? To become a world-class software engineer at a leading tech company! 🌍✨  
+Obsessed with solving complex problems, writing efficient code, and building impactful software. I thrive on competitive programming, software development, and web technologies, aiming to push my limits every day. My goal? To become a world-class software engineer at a leading tech company! 🌍✨  
 
 ## 🔥 About Me  
 - 🎯 Dedicated Software Engineer in the making, focusing on high-performance coding & problem-solving.  
