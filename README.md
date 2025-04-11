@@ -1,4 +1,4 @@
-#🚀 Hi there, I'm Ayushi Chourasia 👋  
+  #🚀 Hi there, I'm Ayushi Chourasia 👋  
 
 💻 Driven Software Engineer | 🚀 Competitive Programmer | 🎯 Problem-Solving Enthusiast  
 
